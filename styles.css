@@ -1,3 +1,57 @@
+<<<<<<< HEAD
+body{
+    background-color: #393E46;
+    text-align: center;
+}
+
+
+
+.grid-child{
+    display: inline-block;
+
+}
+
+.roll {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: 'Lobster', cursive;
+    color: #ffffff;
+    font-size: 40px;
+    background: #4ECCA3;
+    padding: 10px 20px 10px 20px;
+    border: solid #ffffff 3px;
+    text-decoration: none;
+    position: relative;
+    bottom: 80px;
+  }
+  
+  .roll:hover {
+    background: #393E46;
+    text-decoration: none;
+  }
+
+img{
+    width: 80%;
+}
+
+h1{
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+}
+
+h2{
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 200%;
+}
+
+footer{
+    margin-top: 8%;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+=======
 body{
     background-color: #393E46;
     text-align: center;
@@ -30,4 +84,5 @@ footer{
     margin-top: 8%;
     color: white;
     font-family: 'Indie Flower', cursive;
+>>>>>>> 1cedaf7214f1a772a83e71d65e37d5d560682ed0
 }
