@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #393E46;
     text-align: center;
@@ -50,4 +51,38 @@ footer{
     margin-top: 8%;
     color: white;
     font-family: 'Indie Flower', cursive;
+=======
+body{
+    background-color: #393E46;
+    text-align: center;
+}
+
+
+
+.grid-child{
+    display: inline-block;
+
+}
+
+img{
+    width: 80%;
+}
+
+h1{
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+}
+
+h2{
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 200%;
+}
+
+footer{
+    margin-top: 8%;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+>>>>>>> 1cedaf7214f1a772a83e71d65e37d5d560682ed0
 }
